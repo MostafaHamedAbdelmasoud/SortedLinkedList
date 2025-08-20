@@ -1,0 +1,17 @@
+# Composer dependencies
+/vendor/
+
+# PHPUnit cache and coverage
+/.phpunit.result.cache
+/build/
+
+# IDE files
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Composer lock file (optional - include if you want reproducible builds)
+# composer.lock
